@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RGB</string>
+    <string name="how_to_play">How to play</string>
+    <string name="how_to_play_description">Choose from the lower three buttons the one with the background
+         color that matches the text for the top label. Try to get as many right answers as you can in 30 seconds</string>
+    <string name="start">Start</string>
+    <string name="score">Score: %1$d</string>
+
+</resources>
